@@ -1,5 +1,5 @@
 ---
-title: "Spring 2021 Workshop"
+title: "Spring 2021: Workshop"
 output:
   learnr::tutorial:
     progressive: no
@@ -11,7 +11,7 @@ runtime: shiny_prerendered
 
 ```{r setup, include=FALSE}
 
-#install.packages("learnr")
+install.packages("learnr")
 library(learnr)
 library(tidyverse)
 knitr::opts_chunk$set(echo = FALSE)
